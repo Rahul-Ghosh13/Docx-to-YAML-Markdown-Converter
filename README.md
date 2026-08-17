@@ -144,6 +144,4 @@ interactive_ollama.py  Interactive Ollama-assisted workflow
 tests/                 Automated tests
 ```
 
-## License
 
-No license has been specified yet. Add a `LICENSE` file before publishing if you want to define how others may use this project.
